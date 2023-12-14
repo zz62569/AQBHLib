@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AQBHLib", "AQBHLib.csproj", "{43FE9953-AD2E-46B0-AF07-8001327252DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FE9953-AD2E-46B0-AF07-8001327252DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FE9953-AD2E-46B0-AF07-8001327252DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FE9953-AD2E-46B0-AF07-8001327252DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FE9953-AD2E-46B0-AF07-8001327252DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9AB1A48-6991-4E73-A34C-D6B754BF865C}
+	EndGlobalSection
+EndGlobal
